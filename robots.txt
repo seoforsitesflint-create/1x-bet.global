@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Allow: /img/
-
-Sitemap: https://1x-bet.global/sitemap.xml
